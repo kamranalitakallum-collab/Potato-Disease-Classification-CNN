@@ -115,3 +115,14 @@ All three sample predictions matched their expected classes.
 Created as a Deep Learning and Computer Vision learning project.
 
 **Project:** Potato Disease Classification Using CNN
+
+## 🖼️ Sample Predictions
+
+### Early Blight
+![Early Blight](images/Early_Blight.JPG)
+
+### Late Blight
+![Late Blight](images/Late_Blight.JPG)
+
+### Healthy
+![Healthy](images/Healthy.JPG)
